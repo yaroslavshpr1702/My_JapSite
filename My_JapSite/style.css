@@ -62,3 +62,13 @@ body
     {
         padding: 0px 0px;
     }
+    a
+    {
+        color: #ffb3b3;
+        font-family: oblique, Times, serif;
+        font-weight: 900
+    }
+    p
+    {
+        font-family: "Times New Roman", Times, serif;
+    }
