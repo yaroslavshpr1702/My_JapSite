@@ -2,11 +2,17 @@ body
     {
         background-image: url("0.jpg");
         background-repeat: no-repeat;
+        background-attachment: fixed;
     }
     h1 
     {
-        color: white;
+        color: ff4000;
         text-align: center;
+    }
+    h2
+    {
+        color: #c2c2d6;
+        padding-left: 50px;
     }
     table#content
     {
@@ -71,4 +77,5 @@ body
     p
     {
         font-family: "Times New Roman", Times, serif;
+        padding: 10px 30px;
     }
